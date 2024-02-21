@@ -64,6 +64,9 @@ body{
     width: 10%;
     border: none;
 }
+#nav h3{
+    display: none;
+}
 
 #center{
     height: 83vh;
